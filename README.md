@@ -1,6 +1,6 @@
 # form-a-story
 
-<h3> A little coding fun with:: <strong> HTML, JS, and CSS! </strong> </h3>
+<h3> A little coding fun with: <strong> HTML, JS, and CSS! </strong> </h3>
 <br>
 <img src="images/formastory.jpg">
 <br>
